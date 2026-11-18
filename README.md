@@ -81,7 +81,7 @@ I enjoy designing efficient backend services, building responsive frontend appli
 
 ### 📊 Coding Profiles
 
-- [LeetCode]([https://leetcode.com/](https://leetcode.com/u/Jha_raushan/))
+- [LeetCode](https://leetcode.com/](https://leetcode.com/u/Jha_raushan/))
 - [HackerRank](https://www.hackerrank.com/profile/2019b131075)
 
 **200+ Coding Problems Solved**
@@ -99,8 +99,8 @@ I enjoy designing efficient backend services, building responsive frontend appli
 ### 📫 Connect With Me
 
 - 📧 Email: raushankjha20@gmail.com
-- 💼 LinkedIn: Connect with me on LinkedIn.
-- 🐙 GitHub: Explore my repositories.
+- 💼 LinkedIn: https://www.linkedin.com/in/raushan-k-jha/
+- 🐙 GitHub: https://github.com/Raushankjha
 
 ---
 
