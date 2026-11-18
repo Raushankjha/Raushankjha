@@ -81,9 +81,8 @@ I enjoy designing efficient backend services, building responsive frontend appli
 
 ### 📊 Coding Profiles
 
-- [LeetCode](https://leetcode.com/)
-- [CodeChef](https://www.codechef.com/)
-- [HackerRank](https://www.hackerrank.com/)
+- [LeetCode]([https://leetcode.com/](https://leetcode.com/u/Jha_raushan/))
+- [HackerRank](https://www.hackerrank.com/profile/2019b131075)
 
 **200+ Coding Problems Solved**
 
